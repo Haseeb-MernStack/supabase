@@ -690,7 +690,7 @@
     "@testing-library/user-event": "^14.0.0",
     "@types/common-tags": "^1.8.4",
     "@types/js-yaml": "^4.0.9",
-    "@types/lodash": "^4.17.5",
+    "@types/lodash": "^4.17.27",
     "@types/mdast": "^3.0.0",
     "@types/node": "catalog:",
     "@types/react": "catalog:",
